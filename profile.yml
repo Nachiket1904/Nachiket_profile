@@ -5,8 +5,8 @@
 # ══════════════════════════════════════════════════════════════════════
 
 # Shown as user@host at the top of the card, like a shell prompt.
-user: yourname
-host: yourhandle
+# user: yourname
+# host: yourhandle
 
 # The rows of the info card. Add, remove and reorder them freely —
 # there is nothing magic about these labels.

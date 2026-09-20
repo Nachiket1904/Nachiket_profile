@@ -14,22 +14,22 @@ host: yourhandle
 # One row per line, written as   - Label: value
 # A row whose label is ""  continues the row above it.
 # If a value contains a colon, wrap the whole value in quotes.
+# GitHub profile card
+
+user: Nachiket
+host: Nachiket1904
+
 card:
-  - Role: what you do
-  - Now: what you are building right now
-  - "": a second line, if one thing needs two
-  - Stack: the tools you actually reach for
-  - Loc: where you are
-  - Web: your site
+  - Role: AI Engineer
+  - Now: Building GenAI & AI automation systems
+  - "": RAG • Agents • LLM workflows
+  - Stack: Python • LangGraph • LangChain • n8n • FastAPI
+  - Loc: Mumbai, India
+  - Web: github.com/Nachiket1904
 
-# One line at the foot of the card. Leave empty to omit it.
-motto: ""
+motto: "Build. Learn. Automate."
 
-# ─── optional, delete any line to use the default ────────────────────
-
-# Accent colour: card labels, and the cursor that types the portrait.
 accent: "#6366f1"
-
 # How many characters wide the ASCII portrait is sampled.
 # Higher = finer detail and a bigger file. 80-120 is the useful range.
 ascii_columns: 100

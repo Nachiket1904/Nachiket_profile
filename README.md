@@ -1,18 +1,18 @@
 <!-- profile-forge:start -->
 <div align="center">
 
-<h3><code>alessio@github ~ $ ./contributions.sh</code></h3>
+<h3><code>Nachiket@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, refreshed daily" />
 
 <br><br>
 
-<h3><code>alessio@github ~ $ whoami</code></h3>
+<h3><code>Nachiket@github ~ $ whoami</code></h3>
 
 <table>
   <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="345" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="505" alt="Info card" /></td>
+    <td valign="top"><img src="./ascii-portrait.svg" width="273" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="577" alt="Info card" /></td>
   </tr>
 </table>
 
